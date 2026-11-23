@@ -1,0 +1,10 @@
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.rds
+*.RData
+*.Rhistory
+renv/library/
+.DS_Store
+Thumbs.db
